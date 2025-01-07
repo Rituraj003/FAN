@@ -1,5 +1,6 @@
 # FAN: Fourier Analysis Networks
 [**Paper**](https://arxiv.org/abs/2410.02675)
+[**Breakdown of Paper**](https://levelup.gitconnected.com/fourier-analysis-networks-fans-are-here-to-break-barriers-in-ai-1c521c6656bc)
 
 <img src="./img/FANLayer.jpg" width="705" alt="FAN Layer">
 
